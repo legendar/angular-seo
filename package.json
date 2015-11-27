@@ -1,0 +1,7 @@
+{
+  "author": "DS",
+  "name": "angular-seo",
+  "version": "0.1.1",
+  "main": "./angular-seo.js",
+  "license": "MIT",
+}
